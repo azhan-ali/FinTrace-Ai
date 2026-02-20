@@ -452,3 +452,25 @@ For issues, questions, or suggestions:
 **Made with ❤️ for Financial Crime Detection**
 
 Last Updated: February 2024 | Version: 1.0.0
+
+---
+
+## 📝 Project Summary (For Judges)
+
+**FinTrace AI** is a full-stack fraud detection platform built with React + Tailwind CSS that analyzes financial transaction networks to identify money laundering schemes.
+
+### Key Highlights:
+- **3 Advanced Detection Algorithms**: Circular fund routing (DFS), Smurfing patterns (fan-in/fan-out), Shell networks (layering)
+- **Interactive Visualization**: Force-directed graph with 10,000+ transaction support, heatmap mode, hover effects
+- **Kingpin Detection**: Identifies central figures using transaction volume (70%) + network centrality (30%)
+- **Transaction Replay**: Sequential playback with progressive graph building
+- **Case Management**: Auto-save to localStorage with search & delete functionality
+- **HTML Report Generation**: Complete analysis export for stakeholders
+- **Dark/Light Theme**: Professional UI with Tailwind CSS
+- **CSV Validation**: Drag-drop upload with format checking (transaction_id, sender_id, receiver_id, amount, timestamp)
+
+### Tech Stack:
+React 18 | Tailwind CSS | react-force-graph-2d | PapaParse | Canvas API | Hooks
+
+### What Makes It Special:
+✨ Client-side processing (no backend needed) | ✨ Real-time graph rendering | ✨ Multi-pattern fraud detection | ✨ Intuitive UX for financial analysts

@@ -423,13 +423,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 👨‍💻 Author
 
-**Azhan Ali**
-- GitHub: [@azhan-ali](https://github.com/azhan-ali)
-- Project: [FinTrace AI](https://github.com/azhan-ali/FinTrace-Ai)
-
----
 
 ## 🙏 Acknowledgments
 
